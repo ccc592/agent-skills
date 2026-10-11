@@ -50,7 +50,8 @@ These are examples, not prescriptions. Each system's values must be determined t
 - **Rationale:** Why this target? What data would be lost if this RPO is exceeded? Is that data loss acceptable?
 - **Tradeoffs considered:** What would it cost to achieve a tighter RPO? What data loss would a looser RPO represent?
 - **Constraints:** Data classification, regulatory requirements, backup technology limitations.
-- **Measurement method:** How is RPO measured in an exercise? Time of last verified backup to time of failure.
+- **Measurement method:** Measure the interval between failure and the newest verified recoverable committed data point. Record the recovery point separately from backup creation, completion, and verification times. For continuous recovery, verify the base backup plus the required log sequence/timeline through that point; replication lag or a recent backup check alone does not prove recoverability. Record uncertainty when the recovery chain cannot be verified.
+- **Capability gap:** Compare the verified recovery point with the target RPO. Nightly backups alone cannot establish a one-hour RPO throughout the day. Verify an additional recovery mechanism (for example, continuous WAL archiving/PITR) before claiming the target is met; otherwise record the gap.
 
 #### Verification
 
