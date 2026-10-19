@@ -78,6 +78,15 @@
       "description": "Use when deciding whether an AI-enabled workflow should be adopted, scaled, constrained, redesigned, or retired, and the decision must connect business outcomes, worker or user effects, quality guardrails, full operating cost, telemetry, uncertainty, and accountable governance. Do not use for a standalone financial model, infrastructure cost calculation, agent evaluation design, runtime operations, or general AI governance; route those details to the neighboring specialist skills."
     },
     {
+      "name": "amazon-memo",
+      "source": "./",
+      "skills": [
+        "./amazon-memo"
+      ],
+      "strict": false,
+      "description": "Create, adapt, or revise Amazon-style narrative decision memos, six-pagers, PR/FAQs, and short decision briefs, including reading meetings and async review. Use for choosing the right memo form, evidence-led reasoning, and revising mechanical AI prose for human readers. Do not use for general copywriting, document rendering, or replacing incident reports and technical design records."
+    },
+    {
       "name": "analog-occultism",
       "source": "./",
       "skills": [
