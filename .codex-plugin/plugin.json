@@ -103,6 +103,7 @@
     "./litellm",
     "./llama-cpp",
     "./llamaindex",
+    "./meetings",
     "./mermaid-diagrams",
     "./meshcore-packet-capture",
     "./migration-engineering",
