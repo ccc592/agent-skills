@@ -351,6 +351,10 @@ Operate llama.cpp from hardware-aware installation and GGUF selection through ve
 
 An expert-level skill for building LLM applications over your data with LlamaIndex. RAG pipelines, multi-agent orchestration, event-driven workflows, knowledge graph construction, and production deployment.
 
+### [meetings](meetings/SKILL.md)
+
+Plan purposeful meetings and invitees, enable accessible participation, and document decisions, dissent, agreed actions and private organizer follow-up. Distinguishes proposals from commitments and preserves normal authorization for invitations, notes and task writes.
+
 ### [mermaid-diagrams](mermaid-diagrams/SKILL.md)
 
 Create maintainable diagrams that render reliably in the documentation surfaces where readers actually encounter them.
