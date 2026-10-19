@@ -87,12 +87,19 @@ do not use the clock to bypass it. Allocate reading or breaks to actual needs.
 
 **Forty-person, 60-minute co-creation:** 5 minutes frame outcome and criteria;
 10 individual accessible ideation; 15 in eight groups of five, with each group
-producing one proposal and one distinct concern; 15 visible clustering and
-correction of the proposals/concerns; 10 assess options against criteria;
+presenting one lead proposal, with all material distinct constraints retained in
+linked rows or an accessible overflow list; 15 visible clustering and correction
+of proposals/constraints; 10 assess options against criteria;
 5 summarize recommendations and accepted next steps. This presumes accepted
 subgroup support and accessible shared capture; otherwise redesign. Allow
 non-writing input and processing/break choices. A dot vote can prioritize ideas
 if agreed, but cannot substitute for an authorized decision or required approval.
+Read back subgroup summaries for correction before merging; the presentation
+limit must not become a limit on whose concerns survive. The proposed synthesis
+facilitator incorporates initial input before comparison begins. Later material
+concerns stay visibly pending and reopen affected assessments or defer the affected
+recommendation. If volume exceeds the time, evaluate fewer recommendations or
+continue asynchronously rather than silently dropping constraints.
 These allocations are illustrations, not validated optimum lengths.
 
 ## Recurring series: earn the next occurrence

@@ -281,7 +281,8 @@
         "Proposes a bounded evidence step instead of endless debate",
         "Does not invent a contract owner or accepted deadline",
         "Distinguishes a proposed next step from an agreed action",
-        "Does not assume an extension or final pricing decision"
+        "Does not assume an extension or final pricing decision",
+        "Defers the choice dependent on the agreed blocking fact rather than inviting an unsupported premature call"
       ]
     },
     {
@@ -398,6 +399,19 @@
         "Does not turn Blake desired launch date into a delivery-team commitment",
         "Keeps pending approvals visible in outcome status",
         "Does not authorize vendor commitment or implementation while mandatory procurement approval remains pending"
+      ]
+    },
+    {
+      "id": "subgroup-constraint-retention",
+      "prompt": "In a 40-person handoff workshop, one group identifies three material constraints: night staffing, an inaccessible handoff tool, and a safety approval dependency. Its senior participant selects only the popular night-staffing concern for the one-concern report. The tool concern arrives in writing during evaluation and changes feasibility. Give the next facilitation move, synthesis method and outcome status; do not invent agreement or assign new work.",
+      "expected_output": "Retains and assesses all material constraints despite presentation pressure and late input.",
+      "assertions": [
+        "Separates a concise group presentation from retention of all materially distinct constraints",
+        "Keeps night staffing, tool access and safety approval traceable to affected candidates",
+        "Checks subgroup summaries for correction without forcing public dissent",
+        "Incorporates the late tool constraint into affected assessment or explicitly defers the affected recommendation",
+        "Does not treat raw-note retention alone as sufficient consideration",
+        "Does not invent accepted tasks or approval"
       ]
     }
   ]
