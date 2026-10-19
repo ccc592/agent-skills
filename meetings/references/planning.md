@@ -33,17 +33,11 @@ getting delegated authority, or reframing the session as discovery.
 
 ## Plan access before requests arrive
 
-Include ordinary accessibility options in every brief and invitation, regardless
-of whether any disability is known: accessible advance materials, captions where
-available, processing pauses, written/asynchronous input, breaks and flexible
-ways to contribute. Check which features are available and usable; state gaps
-and alternatives rather than promising support the venue/platform cannot deliver.
-Do not add a diagnosis survey to intake. Offer a private route for additional
-preferences and accommodations, and keep its details out of shared records.
-Check authorized preference memory for verified attendees, including source,
-date and scope; apply current relevant preferences without exposing attribution.
-A shared starting point does not replace individual support. For conflicting
-preferences, work with participants on equivalent access and keep choices flexible.
+Use the ordinary access defaults in SKILL.md and the access reference before
+requests arrive. Check authorized preference memory privately for verified
+attendees and current scope. State usability gaps and workable alternatives;
+shared defaults do not replace individual support. Keep attribution out of the
+shared brief.
 
 ## Fit the form
 
@@ -62,3 +56,63 @@ For hybrid meetings, test whether remote participants can hear, access materials
 and enter the discussion equally. Name a remote participation monitor if useful
 and agreed. Confirm captions/interpreting, venue access, equipment, accessible
 material formats and alternatives; avoid making everyone troubleshoot at the start.
+
+## Match purpose, output and scale
+
+| Purpose | Useful output and minimum flow | Adaptation and failure signal |
+|---|---|---|
+| Decide | Question → evidence/alternatives → tradeoffs → call under the decision contract | Required approvals and affected knowledge matter more than rank; a preference without approval is not implementation authority |
+| Co-create | Independent ideas → compare/cluster → evaluate against agreed criteria → proposed next step | Larger groups need prepared subgroup support and a common synthesis channel; collecting ideas without synthesis is not closure |
+| Coordinate | Changed dependencies → blockers → accepted resolutions | Use async status first; relevant owners or delegated representatives resolve interdependencies, not everyone reporting in turn |
+| Learn/inform | Essential context → questions/application → check understanding | Offer accessible pre-read and a questions route; delivery of slides does not establish understanding |
+| Relationship one-on-one | Agree useful focus → explore/listen → understanding/support | Use the relationship-specific reference; do not require a decision/action artifact for every conversation |
+
+For written input, propose a concrete usable cutoff (a date/time when known, or
+a named discussion stage) and who will incorporate it before closure. Label an
+unagreed cutoff as proposed; do not refer to a nonexistent “stated window.”
+
+No arbitrary attendee cap solves scale. At larger size, separate who needs live
+exchange from whose perspective must influence the outcome. Confirm representative
+mandates, subgroup facilitators, accessible shared materials and synthesis method.
+If staffing or tools are unavailable, propose a smaller/async design rather than
+pretending a single open queue will include everyone.
+
+### Two proposed examples
+
+**Six-person, 30-minute decision:** 3 minutes confirm question, authority and gates;
+7 review essential evidence and alternatives; 12 compare tradeoffs and objections;
+5 authorized call/status; 3 read back commitments and unknowns. If essential
+approval/evidence is absent, use the slot for discovery or propose async resolution;
+do not use the clock to bypass it. Allocate reading or breaks to actual needs.
+
+**Forty-person, 60-minute co-creation:** 5 minutes frame outcome and criteria;
+10 individual accessible ideation; 15 in eight groups of five, with each group
+producing one proposal and one distinct concern; 15 visible clustering and
+correction of the proposals/concerns; 10 assess options against criteria;
+5 summarize recommendations and accepted next steps. This presumes accepted
+subgroup support and accessible shared capture; otherwise redesign. Allow
+non-writing input and processing/break choices. A dot vote can prioritize ideas
+if agreed, but cannot substitute for an authorized decision or required approval.
+These allocations are illustrations, not validated optimum lengths.
+
+## Recurring series: earn the next occurrence
+
+Identify the series owner and current purpose, not merely its historic calendar
+slot. Ask what changed, what live interaction uniquely resolves, and what outcome
+would justify continuing. Choose cadence from dependency/change rate and the cost
+of waiting, while preserving learning, relationship and access value.
+
+Inspect a few actual agendas/outcomes when available. Remove read-aloud status,
+limit attendance by relevant segment, and try async evidence or targeted check-ins
+where suitable. Estimate attendee time from supplied facts: duration × attendee
+count × occurrences, plus known preparation/follow-up time separately. Do not
+invent salaries, attendance or savings, and do not equate a smaller number with
+better outcomes. State assumptions and any burden shifted to async work.
+
+Propose a bounded review, such as after the next three occurrences, with a series
+owner and simple signals: did dependencies resolve, did needed perspectives
+influence outcomes, were accepted actions followed through, was the burden worth
+it? The review interval and owner remain proposals unless agreed. Recommend
+continue/change/retire when evidence supports it; calendar edits, cancellations
+or invitations still need authorization. Review earlier if purpose disappears or
+access/participation repeatedly fails.

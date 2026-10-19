@@ -1,9 +1,11 @@
 # Meeting brief — draft
 Adapt or omit fields to purpose and local norms.
 
-- Purpose and desired outcome:
+- Purpose, relationship/type, desired output and proportionate flow:
 - Why live exchange is useful; async alternative considered:
-- Decision question, authority/process (or exploratory status):
+- Decision question/scope, decider, required approvals, advisers:
+- Readiness, closure rule, objection handling and fallback (or exploratory status):
+- Proposed chair/facilitator/record roles and agreed authority to redirect/pause:
 - Proposed time, time zone, duration, availability checks:
 - Preparation and reviewed document/version:
 - Ordinary access options for everyone: advance accessible materials; captions
@@ -28,3 +30,7 @@ copying person-linked entries or persistence details into this shared artifact.
 
 Unknowns that change the plan:
 Draft invitation text, when requested:
+
+For a recurring series: purpose/owner, cadence rationale, attendee/preparation
+burden from known facts, proposed review trigger and continue/change/retire criteria.
+For workshops: idea capture, synthesis/correction, selection criteria and decision rights.

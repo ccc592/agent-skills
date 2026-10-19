@@ -31,9 +31,11 @@ uses consensus. Never erase dissent because a decision owner made a valid call.
 
 ## Review and distribute
 
-Produce the shared record and a separate private organizer draft. Suggest missing
-clarifications, proposed conversations, and follow-up options in the private
-artifact; label every suggestion and unsupplied owner/date as proposed. Avoid
+Produce only the requested useful record. Add a separate private organizer draft
+when requested or material unresolved threads justify one; omit it when it adds
+no value. If its destination/access cannot be verified, identify that gap rather
+than inventing a restricted location. Suggest clarifications, conversations and
+follow-up options in that private artifact; label every suggestion and unsupplied owner/date as proposed. Avoid
 speculative judgments about motives, diagnoses or employee performance. A private
 label alone does not restrict storage permissions. Keep confidential matters out
 of broadly visible files; verify intended location and audience.
@@ -53,3 +55,29 @@ an uncertain API response. Calendar cancellations and edits need authorization t
 Track agreed actions using existing tools where requested. Report status from
 current evidence, not optimistic inference. Proposed reminders, escalation or
 future meetings require the normal authorization for their actual execution.
+
+## Follow agreed work through, when requested
+
+Retrieve the actual commitment and source before checking status. Use fresh dated
+evidence, distinguishing a status report from verified completion. Preserve the
+original owner/date and record later accepted changes as later changes. No response
+is unknown, not proof of completion, refusal or renewed agreement.
+
+| Current evidence | Record and useful next step |
+|---|---|
+| Work completed | Record what was delivered and supporting evidence; do not infer it solved the original problem without outcome evidence |
+| Blocked | Name the dependency and its evidence; propose a targeted clarification with the role able to resolve it, not automatic blame or another meeting |
+| Overdue | Compare a known agreed date with the known current date/time zone; overdue can coexist with blocked. Do not invent acceptance of a replacement date |
+| Canceled or superseded | Link the later authorized change and preserve the original history; do not keep chasing the obsolete commitment |
+| Unknown or contested | State what is unverified and propose the smallest confirmation needed; conflicting reports do not justify choosing a convenient status |
+
+For a blocked publication, “legal approval pending; Sam reports the draft ready”
+is more useful than “Sam failed.” Propose a specific dependency check, with any
+new owner/date marked proposed until accepted. Reminders, task updates, escalation
+and messages require their normal authorization; inspect duplicates and verify
+writes. Do not turn support into surveillance or silently make new commitments.
+
+Where the meeting sought an outcome, optionally compare completed work with that
+outcome: was the handoff actually improved, or was only the document delivered?
+Record residual questions and propose a proportionate async check or review only
+if useful. Stop at the requested scope; this is not an autonomous task-chasing loop.

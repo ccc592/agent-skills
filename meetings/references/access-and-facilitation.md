@@ -2,17 +2,9 @@
 
 ## Start with access for everyone
 
-Organizers generally will not know attendees’ diagnoses. Offer accessibility
-power-ups to the whole group as ordinary meeting options: advance accessible
-materials, usable captions where available, time to process, written/asynchronous
-input, breaks, and flexible participation. Do not wait for disclosure, a named
-disability, or a private request before including them in planning and invitations.
-
-Universal design and the curb-cut effect support removing barriers proactively:
-features essential for some people can also help others, including people with
-situational or temporary barriers. This is a design rationale, not proof that
-every option improves every meeting for everyone. Read the evidence reference
-for source types and limits. Offer options rather than compulsory modes.
+Use the ordinary access options in SKILL.md before requests arrive, with usable
+choices rather than compulsory modes. The evidence reference explains universal
+design and the curb-cut rationale and their limits.
 
 Shared defaults are a starting point, not a substitute for individual
 accommodations. Give everyone an optional private request channel, explain who
@@ -60,36 +52,16 @@ before authorized capture; if permission is unclear, leave capture off. In share
 invitation access wording, explicitly distinguish available captions from any
 recording or retained transcription, which require separate authorization/consent.
 
-## Facilitate live participation
+## Participation channels
 
-Make agenda changes explicit. Use plain, concrete questions, one thread at a
-time, and a visible place for parked questions. Explain jargon. Say who is
-speaking, verbalize relevant visual information, and avoid overlapping speech.
-Allow a pause before responses; a fast answer is not necessarily a better answer.
-
-For idea generation, offer quiet individual thinking/writing before group
-comparison where useful, with a non-writing equivalent if needed. For discussion,
-use a clear queue and invite overlooked evidence. Let people pass, contribute in
-chat/document/voice, or return later within an agreed window. Avoid mandatory
-round-robins, surprise cold-calling, or forcing everyone to tell personal stories.
-Do not create simultaneous chat, slide and verbal tasks that overload attention;
-make important chat contributions part of the shared discussion.
-
-Leaders should ask questions and demonstrate listening: paraphrase, check
-interpretation, explore disconfirming information, and explain how input affected
-the outcome. Avoid rigid speaking quotas and do not infer agreement from quietness.
-Make disagreement safe to record without requiring public disclosure of why a
-participation method is difficult. Humor and informal conversation are optional;
-never require a social performance as the price of contributing.
-
-For live interventions, start with a brief actionable sentence and pause; put
-process explanation in subsequent turns or the written record. A long corrective
-speech can itself impede access. If the decision process permits a unilateral
-call, distinguish that call from consensus and preserve any access failure.
-
-Close with explicit decision status, accepted commitments and unknowns. Offer a
-correction channel, particularly when captions or transcription were unreliable.
-Ask whether the next iteration needs an adjustment without requiring disclosure.
+Use one thread at a time, clear questions and visible topic changes. Identify
+speakers and verbalize relevant visual information. Allow processing pauses,
+passing and spoken/written contributions without compulsory cold calls or
+round-robins. For ideation, offer independent thinking with a non-writing equivalent.
+Do not require simultaneous monitoring of chat, slides and speech; bring important
+written input into the common discussion. Humor and informal conversation remain
+optional, not a required social performance. Use the live-facilitation reference
+for interventions and closure when access, conflict or time pressure disrupts this.
 
 ## Remember practical preferences, not medical profiles
 
@@ -112,6 +84,9 @@ arbitrary shared CRM, public file, repository or agenda as substitute memory.
 When planning a later meeting, consult authorized preference memory for verified
 attendees and apply relevant preferences alongside broad accessibility defaults.
 Do not require the person to disclose again merely to use a current preference.
+An interval correction must not silently broaden scope: changing two days to
+three does not by itself change remote workshops into all workshops. Preserve
+established scope and clarify an ambiguous scope change privately.
 For stale, conflicting or context-sensitive entries, check privately rather than
 assuming they override the person's latest statement. Honor later corrections,
 scope changes and requests to forget using the facility's supported controls;
