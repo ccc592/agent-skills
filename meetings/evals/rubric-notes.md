@@ -18,8 +18,8 @@ Use repository-supported grading mechanisms; these notes add no new grader synta
 For subgroup synthesis, retaining three constraints only in raw notes while
 assessing just the popular one is a near miss. All material constraints need a
 traceable assessment/disposition, including late information that changes feasibility.
-For circular debate, asking for an unsupported call without an agreed blocking
-fact is not equivalent to deferring that dependent choice.
+For circular debate, asking for an unsupported call while the agreed blocking
+fact remains unresolved is not equivalent to deferring that dependent choice.
 
 A short answer can be correct without describing every safeguard. Apply only the
 case's relevant assertions and source scope; do not reward verbosity or demand a
