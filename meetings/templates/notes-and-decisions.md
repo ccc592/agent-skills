@@ -3,6 +3,7 @@ Adapt to purpose; omit empty sections or explicitly state when no decision occur
 
 - Purpose, date/time zone, actual attendees if known:
 - Sources, coverage gaps, reviewed document/version:
+- Accessible outcome format and written correction/contribution route for everyone:
 - Intended audience and correction process:
 
 ## Context and discussion

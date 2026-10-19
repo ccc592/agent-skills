@@ -31,6 +31,20 @@ If context is sparse, propose role-based slots and ask who holds decision rights
 never invent a named owner. Missing authority may require deferring a decision,
 getting delegated authority, or reframing the session as discovery.
 
+## Plan access before requests arrive
+
+Include ordinary accessibility options in every brief and invitation, regardless
+of whether any disability is known: accessible advance materials, captions where
+available, processing pauses, written/asynchronous input, breaks and flexible
+ways to contribute. Check which features are available and usable; state gaps
+and alternatives rather than promising support the venue/platform cannot deliver.
+Do not add a diagnosis survey to intake. Offer a private route for additional
+preferences and accommodations, and keep its details out of shared records.
+Check authorized preference memory for verified attendees, including source,
+date and scope; apply current relevant preferences without exposing attribution.
+A shared starting point does not replace individual support. For conflicting
+preferences, work with participants on equivalent access and keep choices flexible.
+
 ## Fit the form
 
 Use an agenda that connects each topic to a question/outcome, preparation, and

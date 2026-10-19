@@ -777,7 +777,7 @@
         "./meetings"
       ],
       "strict": false,
-      "description": "Plan, organize, facilitate, and document meetings, including invitee selection, accessible participation, decisions, agreed actions, and private organizer follow-up. Use for the meeting lifecycle or deciding whether to meet; do not use as a substitute for specialist incident response, therapy, or memo writing."
+      "description": "Plan, organize, facilitate, and document meetings, including invitee selection, proactive accessibility for everyone, private preference memory, decisions, agreed actions, and private organizer follow-up. Use for the meeting lifecycle or deciding whether to meet; do not use as a substitute for specialist incident response, therapy, or memo writing."
     },
     {
       "name": "mermaid-diagrams",

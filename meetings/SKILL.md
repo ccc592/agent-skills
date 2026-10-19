@@ -2,13 +2,24 @@
 name: meetings
 description: >-
   Plan, organize, facilitate, and document meetings, including invitee selection,
-  accessible participation, decisions, agreed actions, and private organizer
-  follow-up. Use for the meeting lifecycle or deciding whether to meet; do not
+  proactive accessibility for everyone, private preference memory, decisions,
+  agreed actions, and private organizer follow-up. Use for the meeting lifecycle
+  or deciding whether to meet; do not
   use as a substitute for specialist incident response, therapy, or memo writing.
 license: MIT
 ---
 
 # Meetings
+
+Make accessibility an ordinary part of every meeting, without waiting to learn
+who has a disability. Organizers usually do not know attendees’ diagnoses. Offer
+accessibility power-ups to everyone: advance accessible materials, captions where
+available, processing time, written/asynchronous input, breaks, and flexible
+participation. The curb-cut effect is a useful design rationale: access essential
+for some can benefit many others. It does not mean every option benefits everyone
+or that shared defaults replace individual accommodations. Preserve private
+requests, choice, and adjustments when needs conflict; see
+[evidence and limits](references/evidence.md) for this framing.
 
 Make purposeful participation possible and leave a trustworthy record. Adapt to
 the meeting's purpose, stakes, culture, and requested stage; do not impose a
@@ -60,11 +71,25 @@ architecture records. This skill can support their meeting logistics and notes.
    cannot establish either. Resolve a missing essential role or label the meeting
    exploratory rather than presenting its output as an authorized decision.
 4. Read [accessible facilitation](references/access-and-facilitation.md) when
-   designing participation or facilitating. Offer accessible materials in advance,
-   written/asynchronous input, processing time, breaks, and multiple contribution
-   modes as appropriate. Check individual preferences without diagnosis shortcuts.
+   designing participation or facilitating. Build the ordinary access options
+   above into the plan and invitation for everyone; do not wait for known disability
+   status or a request. Verify availability and usability, then privately check
+   additional preferences and accommodations without diagnosis shortcuts.
    Use [evidence and limits](references/evidence.md) for sourced claims; distinguish
    empirical findings from accessibility guidance and this skill's synthesis.
+
+## Remember expressed preferences responsibly
+
+When a coworker states a practical meeting accessibility preference, remember it
+in an available authorized memory facility and use it when that verified person
+attends future meetings. Read the preference-memory guidance in
+[accessible facilitation](references/access-and-facilitation.md). Retain only the
+preference, verified identity, source/date and relevant scope; honor corrections
+and requests to forget. Do not infer diagnoses, expose private requests, or write
+to an arbitrary CRM/shared file as a substitute. If authorized memory is absent,
+use the preference in current context and explain that persistence is unavailable;
+never claim it was saved. Memory operations remain subject to that facility's
+permissions and privacy rules. Broad access options continue for everyone.
 
 ## During: make the discussion usable
 

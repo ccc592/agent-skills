@@ -353,7 +353,7 @@ An expert-level skill for building LLM applications over your data with LlamaInd
 
 ### [meetings](meetings/SKILL.md)
 
-Plan purposeful meetings and invitees, enable accessible participation, and document decisions, dissent, agreed actions and private organizer follow-up. Distinguishes proposals from commitments and preserves normal authorization for invitations, notes and task writes.
+Plan purposeful meetings and invitees, offer accessibility options to everyone, remember stated preferences through authorized private memory, and document decisions, dissent, agreed actions and private organizer follow-up. Distinguishes proposals from commitments and preserves normal authorization for invitations, notes and task writes.
 
 ### [mermaid-diagrams](mermaid-diagrams/SKILL.md)
 

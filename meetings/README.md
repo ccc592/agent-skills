@@ -8,7 +8,9 @@ explain invitee choices, and design useful preparation and participation.
 
 Afterward, it turns rough notes into readable decisions, dissent, agreed actions,
 and open questions. Suggestions for the organizer stay separate from the shared
-record. It supports access preferences without requiring a diagnosis and never
+record. It offers accessibility options to everyone, adds individual support without
+requiring a diagnosis. It can retain practical preferences through authorized
+private memory and apply them to future meetings with that person. It never
 treats a draft as permission to send invitations or create tasks.
 
 ## What You Get
@@ -32,5 +34,6 @@ shared record plus separate private organizer suggestions.
 
 ## Requirements
 No scripts, credentials, or integrations are required. Calendar, colleague,
-recording, and task tools are optional and require their normal access and user
-authorization. Works with existing organizational meeting and document practices.
+recording, task tools, and preference memory are optional and require their
+normal access and user authorization. Without authorized memory, the agent states
+that it cannot persist preferences. Works with existing organizational meeting and document practices.

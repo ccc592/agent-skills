@@ -6,6 +6,30 @@ answer different questions. None establishes a universal meeting protocol.
 The workflow's consent, authority, truthful records and agreed-action safeguards
 are design requirements, not claimed experimental findings.
 
+## Universal design and the curb-cut effect
+
+[NC State Center for Universal Design: Principles of Universal Design, version 2.0
+(1997)](https://design.ncsu.edu/research/center-for-universal-design/) is primary
+design guidance covering environments, products and communications. Its principles
+support equitable access, flexible methods and pacing, understandable design,
+multiple ways to perceive information, and privacy. Applying these principles
+to meeting defaults is this skill’s synthesis, not a controlled meeting trial.
+The guidance seeks broad usability and acknowledges that not every guideline
+applies to every design; shared defaults cannot establish that all individual
+needs have been met.
+
+[Angela Glover Blackwell, The Curb-Cut Effect](https://ssir.org/articles/entry/the_curb_cut_effect),
+Stanford Social Innovation Review, is a policy/practitioner essay. It describes wider benefits from removing barriers faced by excluded
+groups, starting with disability access and curb cuts. This grounds the rationale
+that access essential for some can benefit others; it does not prove a meeting
+accommodation’s causal effect, guarantee benefit for everyone, or justify
+withholding support whose benefit is specific to a disabled person.
+
+Both sources were retrieved through the existing research service on 19 October
+2026. Public instructions are original synthesis. Offer ordinary access options
+to everyone without disclosure, then preserve additional individual accommodations
+and resolve conflicting preferences rather than imposing one format on all.
+
 ## Meeting research
 
 | Source | Type and finding relevant here | Applicability and limits |
