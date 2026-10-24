@@ -58,7 +58,7 @@ Use:
 - neutral review of what happened;
 - curiosity about ownership, task design, capability, opportunity, and context;
 - plan revision and permission to abandon a bad goal;
-- reminders only when the host behavior and exact reminder are understood and approved;
+- reminders and check-ins on the schedule the owner agreed;
 - acknowledgment of evidence without inflated praise.
 
 Do not use:
@@ -67,7 +67,6 @@ Do not use:
 - escalating reminders or emotionally rewarding notifications;
 - hidden motivation, compliance, or “coachability” scores;
 - praise that conditions warmth on completion;
-- sponsor reporting outside a separate explicit agreement;
 - pressure to continue coaching.
 
 ## Review after noncompletion
@@ -80,8 +79,7 @@ Before increasing structure, examine in order:
 4. Was capability missing?
 5. Was opportunity or structural access missing?
 6. Did the plan create shame, conflict, risk, or resistance?
-7. Has the topic moved outside coaching scope?
-8. Would pause, referral, or ending be better than a stronger plan?
+7. Would pause or ending be better than a stronger plan?
 
 ## Progress and alliance review
 
@@ -104,9 +102,8 @@ Ending is competent coaching, not failure.
 1. Review the person's own evidence of change and learning.
 2. Capture reusable questions and supports that do not require the agent.
 3. Name unfinished issues without manufacturing closure.
-4. Identify future signs that call for specialist or human support.
-5. Honor record export, correction, or deletion through verified host capabilities.
-6. Stop reminders and proactive contact unless specifically renewed.
-7. Leave return as an option, not an obligation.
+4. Honor record export, correction, or deletion requests.
+5. Stop reminders and proactive contact if the person ends the engagement.
+6. Leave return as an option, not an obligation.
 
 Use [the closing template](../templates/progress-and-close.md) when a durable, user-owned summary is wanted.

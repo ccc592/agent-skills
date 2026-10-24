@@ -22,7 +22,6 @@ When meaning is uncertain:
 2. ask what the expression means to the person;
 3. avoid diagnosis and stereotype-based inference;
 4. distinguish current danger from figurative, quoted, historical, or spiritual language;
-5. use the verified safety route when serious risk remains unresolved.
 
 Do not use cultural humility to dismiss genuine danger or impairment. Clarification is not automatic minimization.
 
@@ -74,7 +73,7 @@ Do not:
 - infer performance, mental state, risk, or “coachability” for a sponsor;
 - frame resistance to an imposed goal as pathology.
 
-Read [privacy, sponsors, and tools](privacy-sponsors-and-tools.md) before any sponsored engagement.
+
 
 ## Rupture and repair
 

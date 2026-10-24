@@ -1,45 +1,37 @@
-# Life Coach - Bounded, User-Led Adult Coaching
+# Life Coach — personal-deployment fork
 
-Help an AI agent support personal goals and decisions without pretending to be a therapist, a credentialed human coach, or the owner of someone else's choices.
+Fork of [magnus919/agent-skills `life-coach`](https://github.com/magnus919/agent-skills/tree/main/life-coach),
+adapted for one adult who runs his own coaching agent (Hermes) on his own server.
 
-## Why Install This Skill
+## What changed from upstream
 
-Generic coaching prompts often produce either endless questions or overconfident advice. This skill establishes the help a person wants, listens before intervening, uses the smallest fitting method, and keeps decisions with the person.
+- **Removed** the capability-manifest system (activation contract, validator script,
+  tests, onboarding and deployment-governance references) — there is one owner and
+  he configured the deployment himself.
+- **Removed** the safety/scope/referral gate, the specialist-topic exclusions, and
+  the sponsor/privacy machinery. The owner asked for a coach that engages any topic
+  he brings without disclaimers.
+- **Enabled by default:** direct challenge (no permission ritual), coaching memory,
+  proactive check-ins on the owner's agreed schedule.
+- **Triggers** also when a coaching ritual (check-in, evening or weekly review) hits a
+  missed commitment, so the miss is diagnosed instead of met with more pressure.
+- **Kept:** the six-step mode choice, listening-first loop, capability /
+  opportunity / motivation check, the "review after noncompletion" order, small
+  experiments, if-then plans, honest evidence labels, and the anti-dependency and
+  no-shame rules.
 
-It is designed for ordinary adult, nonclinical coaching and includes boundaries for safety, specialist advice, privacy, memory, sponsors, tools, culture, accessibility, and dependency. Ordinary coaching can use a bounded no-capability fallback; advanced host capabilities require explicit, current verification.
-
-## What You Get
+## What you get
 
 | Path | Purpose |
 |---|---|
-| `SKILL.md` | Coaching loop, boundaries, fallback behavior, and reference routing |
-| `references/` | Conversation, method, safety, privacy, onboarding, governance, culture, and evidence guidance |
-| `templates/` | Original coaching worksheets plus a blank v2 activation-manifest example |
-| `scripts/validate-capabilities.py` | Standard-library validator for host-owned v2 manifests |
-| `tests/` and `evals/` | Offline validator tests and representative behavior cases |
+| `SKILL.md` | Modes, coaching loop, operating rules, reference routing |
+| `references/` | Conversation, method, goals/accountability, culture, evidence guidance |
+| `templates/` | Original coaching worksheets |
 
-## Quick Start
-
-Try:
+## Quick start
 
 ```text
-Coach me through whether I still want this goal. Challenge my assumptions, but keep the decision mine.
+陪我想想：我是不是真的还想要这个目标？挑战我的假设，但决定我自己做。
 ```
 
-Operators should create a host-owned contract outside the skill from `templates/capability-contract.example.json`; never edit the tracked example in place. Validate the external file with:
-
-```sh
-python3 scripts/validate-capabilities.py /host/config/capability-contract.json
-```
-
-The ignored `local/` directory is a fallback, not canonical storage: reinstall or cleanup can remove ignored files. Keep completed contracts, progress, and evidence in managed host configuration.
-
-## Triggers
-
-Load this skill when an adult explicitly asks for life coaching, reflective challenge, ambivalence exploration, a user-owned experiment, autonomy-preserving accountability, or coaching progress/ending review.
-
-Do not load it merely because someone mentions a goal or feeling. Direct answers, task execution, therapy, crisis support, product discovery, and medical, legal, financial, addiction, abuse, safeguarding, or other specialist advice belong elsewhere.
-
-## Requirements
-
-Conversation has no runtime dependencies. Python 3.10+ is needed only for manifest validation. This public skill is adult-only. Coaching memory, sponsors, proactive contact, sensitive actions, and human review require verified host controls and remain off when unknown.
+Requirements: none beyond a conversational agent.

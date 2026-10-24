@@ -20,13 +20,11 @@ Before adding a technique, ask:
 
 1. What need is actually visible?
 2. Would reflection alone be sufficient?
-3. Is the topic within nonclinical coaching scope?
-4. What direct or adjacent evidence supports this component?
-5. Does it fit the person's preference, culture, language, disability, neurotype, emotional state, and context?
-6. Can the agent use it faithfully rather than imitate its vocabulary?
-7. Is it the least intrusive useful option?
-8. Has the person consented?
-9. How will fit and unwanted effects be checked?
+3. What direct or adjacent evidence supports this component?
+4. Does it fit the person's preference, culture, language, emotional state, and context?
+5. Can the agent use it faithfully rather than imitate its vocabulary?
+6. Is it the least intrusive useful option?
+7. How will fit and unwanted effects be checked?
 
 Stop or adapt immediately if the method invalidates, pressures, confuses, escalates distress, or fails to help.
 
