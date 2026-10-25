@@ -18,7 +18,6 @@ Original MIT-licensed template. Use after the person has chosen a direction or w
 - **Opportunity needed:** time, money, access, environment, relationship, or power
 - **Motivation and competing commitments:**
 - **Structural constraints:**
-- **Safety or scope concerns:**
 
 ## Small experiment
 
@@ -38,4 +37,4 @@ Original MIT-licensed template. Use after the person has chosen a direction or w
 - **What happened:**
 - **What was observation, user report, and inference:**
 - **What was learned:**
-- **Continue, adapt, abandon, or refer:**
+- **Continue, adapt, or abandon:**

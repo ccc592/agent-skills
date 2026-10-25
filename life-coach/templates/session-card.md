@@ -7,7 +7,6 @@ Original MIT-licensed template. Use to establish one coaching exchange. Do not r
 - **Mode:** coaching / reflection / options / planning / other
 - **What remains with the person:** interpretation, goal, decision, and action
 - **Depth or method permission:**
-- **Relevant boundary or route-away condition:**
 - **Format or accessibility preference:**
 - **How the person wants to correct, switch mode, or stop:**
 

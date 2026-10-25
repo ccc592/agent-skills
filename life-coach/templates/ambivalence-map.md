@@ -9,7 +9,7 @@ Original MIT-licensed, motivational-interviewing-informed template. Use when the
 - **Costs of the status quo:**
 - **External pressures and possible consequences:**
 - **The person's own values and obligations:**
-- **Capability, opportunity, access, or safety constraints:**
+- **Capability, opportunity, or access constraints:**
 - **Information still needed:**
 - **What the person is ready for now:** action / experiment / more information / not now
 - **Confidence and what would change it:**

@@ -26,7 +26,7 @@ Original MIT-licensed template. Use for periodic review, tapering, or ending. Do
 
 ## Decision
 
-- Continue / adapt / change mode / pause / conclude / refer
+- Continue / adapt / change mode / pause / conclude
 - Reason in the person's words:
 - Any final experiment or review point:
 - Future signs that call for specialist or human support:

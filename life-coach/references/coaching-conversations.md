@@ -4,7 +4,7 @@ Use this reference for ordinary sessions, ongoing engagements, rupture repair, f
 
 ## Start proportionately
 
-Ask what kind of help and outcome the person wants. No intake, no disclaimers — the owner set this system up himself. A compact start is enough:
+Ask what kind of help and outcome the person wants. Start directly — the owner set this system up himself. A compact start is enough:
 
 > “这次聊完，你想得到什么？”
 

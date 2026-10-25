@@ -91,7 +91,7 @@ Use brief, original questions rather than proprietary or clinical scales:
 - “Did you feel free to disagree or change direction?”
 - “Are you more able to choose and act without relying on this agent?”
 - “Did anything increase pressure, shame, rumination, confusion, distress, conflict, avoidance, or reliance?”
-- “Should we continue, adapt, change mode, pause, conclude, or refer?”
+- “Should we continue, adapt, change mode, pause, or conclude?”
 
 A 0-to-10 progress estimate can be a conversation aid, but it is not a clinical measure. Ask what the number means to the person and do not optimize the score.
 

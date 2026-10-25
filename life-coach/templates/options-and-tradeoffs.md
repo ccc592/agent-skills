@@ -18,7 +18,6 @@ Original MIT-licensed template. Use when the person wants a transparent decision
 - **Assumption most worth testing:**
 - **Smallest information-gaining experiment:**
 - **Pre-mortem: how could this go wrong:**
-- **Safety or specialist boundary:**
 - **Decision or review date:**
 - **What the person chooses and why:**
 
